@@ -9,8 +9,8 @@ Abhi
 # Main Menu
 
 # Battle Arena
-Goon
+Goon, Waterslide
 # Level Up System
 Kyle
 # Animation
-Mitchell
+Mitchell, Zoey
