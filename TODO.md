@@ -7,16 +7,16 @@ Ethan, Abhi, Kyle
 Mitchell, Goon, Ahad, Zoey, Waterslide
 
 # Town
-Abhi, Ahad? 
+Abhi, Ahad
 
 # Main Menu
-Ahad? 
+Ahad, Waterslide, Kyle 
 
 # Battle Arena
-Goon, Waterslide?
+Goon, Waterslide
 
 # Level Up System
-Kyle, Ethan?
+Kyle, Ethan
 
 # Animation
 Mitchell, Zoey
