@@ -2,15 +2,21 @@
 
 # Battle Engine
 Ethan, Abhi, Kyle
+
 # Character Design/Classes
 Mitchell, Goon, Ahad, Zoey, Waterslide
+
 # Town
-Abhi
+Abhi, Ahad? 
+
 # Main Menu
+Ahad? 
 
 # Battle Arena
-Goon, Waterslide
+Goon, Waterslide?
+
 # Level Up System
-Kyle
+Kyle, Ethan?
+
 # Animation
 Mitchell, Zoey
