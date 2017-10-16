@@ -12,7 +12,8 @@ class Thing():
 	spp=None
 	lvl=None
 	hpp=None
-
+	htp=None	
+	
 class Player(Thing):
 	noodles=0
 	name=None
