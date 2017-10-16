@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-import class
-	
-=======
 import random as c
 import colors as c
 from time import sleep as s
@@ -33,7 +29,7 @@ def attack():
 		enemy.dpen -= 1
 
 def dodge():
-	print(c.p + "Your enem dodge your enemy's attack!")
+	print(c.p + "You dodge your enemy's attack!")
 	s(2)
 	a.pdodgeanim()
 
@@ -47,4 +43,4 @@ def special():
 		enemy.deff *= enemy.hp
 		enemy.dpen -= 1
 
->>>>>>> 82df4b37a264dd15c0aa270ed2f6da6cc8ab4b55
+
