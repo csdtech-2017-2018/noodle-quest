@@ -43,4 +43,10 @@ def special():
 		enemy.deff *= enemy.hp
 		enemy.dpen -= 1
 
+def heal():
+	print(c.p + "Your enemy heals!")
+	s(2)
+	a.ehealanim()
+	player.hlp += player.hp
+	player.htp -= 1
 
