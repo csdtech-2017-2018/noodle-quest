@@ -1,6 +1,7 @@
 import colors as c
-from time import sleep as s
+import time as t
 import classes as cl
+import random as r
 
 pos1 =  '''
 	   _o
@@ -116,3 +117,13 @@ def animation():
 	t.sleep(.2)
 	o.system("clear")
 	print(pos13)
+
+def win():
+	print(c.r + "You won!")
+	t.sleep(3)
+	animation()
+	lvladd = r.randint(1, 10)
+	cl.Player.lvl += lvladd
+	print(c.y + "You got " + str(lvladd) + " experience points!")
+	s(2)
+
