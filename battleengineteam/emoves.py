@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+import class
+	
+=======
 import random as c
 import colors as c
 from time import sleep as s
@@ -43,3 +47,4 @@ def special():
 		enemy.deff *= enemy.hp
 		enemy.dpen -= 1
 
+>>>>>>> 82df4b37a264dd15c0aa270ed2f6da6cc8ab4b55

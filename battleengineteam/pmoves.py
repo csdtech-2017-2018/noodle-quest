@@ -1,4 +1,3 @@
-import random as c
 import colors as c
 from time import sleep as s
 import animation as a
